@@ -1,10 +1,10 @@
 remote_theme: sujaykundu777/devlopr-jekyll  # Don't touch ( required for this theme)
 
 # Edit your preferences below 
-title: John Doe
+title: Tony Lee
 subtitle: Full Stack Web Developer
 description: >- # this means to ignore newlines until "baseurl:"
-  John Doe uses devlopr-jekyll - a Jekyll Theme Built For Developers
+  Tony Lee uses devlopr-jekyll - a Jekyll Theme Built For Developers
 
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,11 +22,11 @@ urls:
 # Edit these details 
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
-author_email: "johndoe@gmail.com"
-author_location: India
-author_website_url: "http://johndoe.com"
+author: Tony Lee
+author_bio: Hi, My Name is Tony Lee. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
+author_email: "tonylee@gmail.com"
+author_location: Korea
+author_website_url: "http://tonylee.com"
 
 author_work_experiences: 
             - company_name: Google
@@ -63,19 +63,19 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+twitter_username: tonylee
+github_username:  tonylee
+facebook_username: tonylee
+linkedin_username: tonylee
+behance_username: tonylee
+instagram_username: tonylee
+medium_username: tonylee
+telegram_username: tonylee
+dribbble_username: tonylee
+flickr_username: tonylee
 
 #for comments using disqus
-disqus_shortname: sujay-kundu  
+disqus_shortname: tony-lee  
 
 # wakatime username
 wakatime_username: sujaykundu777
