@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Welcome To Jekyll
-author: John Doe
-date: '2019-01-19 14:35:23 +0530'
+author: Tony Lee
+date: '2019-08-25'
 category: guides
 summary: Hello World 
 thumbnail: 1.png
