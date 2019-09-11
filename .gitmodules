@@ -1,0 +1,3 @@
+[submodule "tonylaravel"]
+	path = tonylaravel
+	url = https://github.com/aiegoo/tonylaravel
