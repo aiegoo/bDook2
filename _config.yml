@@ -6,7 +6,11 @@ subtitle: Full Stack Web Developer
 description: >- # this means to ignore newlines until "baseurl:"
   Tony Lee uses devlopr-jekyll - a Jekyll Theme Built For Developers
 
+<<<<<<< HEAD
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. https://example.github.io
+=======
+url: "aiegoo.github.io/tonyjekyll" # the base hostname & protocol for your site, e.g. https://example.github.io
+>>>>>>> portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -24,9 +28,15 @@ urls:
 author_logo: profile.png
 author: Tony Lee
 author_bio: Hi, My Name is Tony Lee. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
+<<<<<<< HEAD
 author_email: "tonylee@gmail.com"
 author_location: Korea
 author_website_url: "http://tonylee.com"
+=======
+author_email: "eozz21@gmail.com"
+author_location: Korea
+author_website_url: "http://tonyleekorea.com"
+>>>>>>> portfolio
 
 author_work_experiences: 
             - company_name: Google
