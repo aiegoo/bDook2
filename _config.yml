@@ -117,11 +117,11 @@ compress_html:
     envs: ['development']
 
 # Archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#   layout: archive
-#   permalinks:
-#     category: '/category/:name/'
+ jekyll-archives:
+   enabled:
+     - categories
+   layout: archive
+   permalinks:
+     category: '/category/:name/'
 
 
